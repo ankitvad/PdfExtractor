@@ -1,0 +1,1 @@
+A shell script to dump all .PDF links from a website and then download them Subsequently.<br> Requires: wget and lynx.    <br> PS: Should not be used on payed/private locations and sites.<br>Bulk downloads are often considered illegal. <br> PPS: can be modified to downoad any types of files, MP3, DOC.. so on..
